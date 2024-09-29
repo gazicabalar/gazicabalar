@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gazicabalar
 - 👀 I’m interested in Java and Java based backend technologies like Spring Boot, Hibernate.
-- 🌱 I’m currently learning as a Software Engineer in Java & Spring Boot tech stack.
+- 🌱 I’m currently learning Java & Spring Boot tech stack.
 - 📫 How to reach me cabalargazi@gmail.com
 - ⚡ Fun fact: Also, I am currently learning SQL tech, for exploration and FUN!!!!
 
